@@ -18,6 +18,8 @@ npm install tps-watch --global
 
 To use this, you must have purchased and installed TexturePacker Pro, which enables the command line interface.
 
+Unfortunately, `tps-watch` is not *yet* Windows compatible.
+
 ## Usage
 
 As a binary:

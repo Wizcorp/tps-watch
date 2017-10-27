@@ -1,6 +1,6 @@
 {
   "name": "tps-watch",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Instantly generate TexturePacker spritesheets when assets are updated",
   "main": "./lib/index.js",
   "scripts": {
@@ -18,6 +18,10 @@
   ],
   "author": "Ron Korving <rkorving@wizcorp.jp>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Wizcorp/tps-watch.git"  
+  },
   "dependencies": {
     "glob": "^7.1.2",
     "node-notifier": "^5.1.2",
